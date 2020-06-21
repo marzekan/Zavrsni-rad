@@ -20,7 +20,11 @@ Machine learning pipeline made in this project can be seen in a diagram bellow. 
 
 **K** in **K-Means** is decided using Elbow method as described in this [article](https://medium.com/analytics-vidhya/how-to-determine-the-optimal-k-for-k-means-708505d204eb). After few trial runs, optimal number of categories was decided to be 6.
 
-![pipeline](images/pipeline.png)
+<p align="center">
+  <img src="images/pipeline.png">
+</p>
+
+<!-- ![pipeline](images/pipeline.png) -->
 
 Models used:
 
